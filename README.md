@@ -4,18 +4,15 @@
 - Clone repo
    <pre><code>git clone https://github.com/muhammadfarhan272/LoginCommonJSProject.git</code></pre>
 
-- Open New Terminal
+- Open New Terminal in vs code
 
-- Go to project directory
+- Go to the project directory
 
-- Execute following command to install project dependencies
+- Execute the following command to install project dependencies
 
     <pre><code>npm intall</code></pre>
-- Execute following command to install cypress
+- Execute the following command to install Cypress
 
     <pre><code>npm install cypress</code></pre>
--  Execute following command to install typescript
-
-    <pre><code> npm install --save-dev typescript </code></pre>
-- Execute following command to open cypress dashboard
+- Execute the following command to open Cypress dashboard
     <pre><code>npx cypress open</code></pre>
